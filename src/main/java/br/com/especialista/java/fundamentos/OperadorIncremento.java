@@ -1,7 +1,6 @@
 package br.com.especialista.java.fundamentos;
 
 public class OperadorIncremento {
-
     public static void main(String [] args) {
 
         int limiteTentativasLogin = 10;
