@@ -24,7 +24,6 @@ public class EstruturaDeRepeticaoFor {
 
         System.out.printf("Peso máximo da aeronave: %d kg%n", pesoMaximo);
         System.out.printf("Peso total dos passageiros: %d kg%n", pesoTotalPassageiros);
-        System.out.printf("Situação da aeronave: %s%n",
-                pesoTotalPassageiros > pesoMaximo ? "peso excedido" : "liberada");
+        System.out.printf("Situação da aeronave: %s%n", pesoTotalPassageiros > pesoMaximo ? "peso excedido" : "liberada");
     }
 }
